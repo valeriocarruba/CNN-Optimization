@@ -8,3 +8,6 @@ In this repository we provide the codes for testing the VGG, Inception and ResNe
 The best-performing model can be loaded using Load_best_model_nu6.py, and can be used to predict the labels of thousands of images in seconds.
 Repositories of the images and labels used in this work are available upon reasonable request.
 More information on this work is available on Carruba et al. 2022, CMDA, under review.
+
+Below there is a link to a folder containing the model weights and the image repositories for the best CNN models for the M1:2 and nu6 resonances:
+https://drive.google.com/drive/folders/1S0yGI5dbwCu1VV6nimRWnvPQ3JFKBm5O?usp=share_link
